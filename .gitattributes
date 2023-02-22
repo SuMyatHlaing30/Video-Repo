@@ -2,3 +2,11 @@
 *.mp4 filter=lfs diff=lfs merge=lfs -text
 Dimitri_Vegas.mp4 filter=lfs diff=lfs merge=lfs -text
 VID_20230105_193806.mp4 filter=lfs diff=lfs merge=lfs -text
+SA[[:space:]]3-2.mp4 filter=lfs diff=lfs merge=lfs -text
+Af2-1.mp4 filter=lfs diff=lfs merge=lfs -text
+DV[[:space:]]1-1.mp4 filter=lfs diff=lfs merge=lfs -text
+MM4-2.mp4 filter=lfs diff=lfs merge=lfs -text
+SA[[:space:]]3-1.mp4 filter=lfs diff=lfs merge=lfs -text
+Af2-2.mp4 filter=lfs diff=lfs merge=lfs -text
+DV1-2.mp4 filter=lfs diff=lfs merge=lfs -text
+MM4-1.mp4 filter=lfs diff=lfs merge=lfs -text
